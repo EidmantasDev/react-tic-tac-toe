@@ -1,6 +1,6 @@
-# React essiantials project
+# React Tic-tac-toe game
 
-A small project to display core concepts of React library
+Fully working tic-tac-toe game written with only core react concepts
 
 ## Run Locally
 
